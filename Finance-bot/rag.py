@@ -7,7 +7,7 @@ from langchain_chroma import Chroma
 #from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_huggingface import HuggingFaceEmbeddings
 
-GEMEINI_API_KEY = "AIzaSyDIl6UG4FWpAtf8_gLD_Wq0GiPRDSAGNEQ"
+GEMEINI_API_KEY = ""
 
 def signal_handler(sig, frame):
     print('\nThanks for using Gemini. :)')
